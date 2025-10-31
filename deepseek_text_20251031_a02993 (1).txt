@@ -1,0 +1,23 @@
+campus-nav/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Map.js
+│   │   │   ├── RoutePlanner.js
+│   │   │   └── BuildingInfo.js
+│   │   ├── styles/
+│   │   │   └── styles.js
+│   │   └── App.js
+│   ├── package.json
+│   └── README.md
+├── backend/
+│   ├── routes/
+│   │   ├── routes.js
+│   │   └── buildings.js
+│   ├── models/
+│   │   └── Building.js
+│   ├── package.json
+│   └── server.js
+├── docs/
+│   └── API.md
+└── README.md
